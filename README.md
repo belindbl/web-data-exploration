@@ -1,4 +1,4 @@
-# DS2024 Course Labs
+# Data Science Course Assignments
 
 This repository contains the notebooks for the DS2024 data science course labs.
 
